@@ -1,3 +1,3 @@
 # jenkins-test
 
-tester autorun av pipeline
+tester autorun av pipeline:)
