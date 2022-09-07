@@ -32,7 +32,7 @@ pipeline {
     
     post { // define expressions of 
         always { //always executed, on failure, success, anything
-            //
+            echo 'Always'
         }  
     }
 }
